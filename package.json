@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/hlays/data-lovers#readme",
   "devDependencies": {
-    "eslint": "^5.16.0",
+    "eslint": "^9.39.1",
     "gitignore": "^0.6.0"
   }
 }
